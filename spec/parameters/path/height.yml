@@ -3,5 +3,5 @@ in: path
 description: Block height.
 required: true
 schema:
-  $ref: "../../schemas/Height.yml"
-
+  type: integer
+  format: int64

@@ -3,5 +3,5 @@ in: path
 description: Finalization epoch.
 required: true
 schema:
-  $ref: "../../schemas/FinalizationEpoch.yml"
-
+  type: integer
+  format: int64
