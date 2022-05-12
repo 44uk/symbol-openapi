@@ -1,5 +1,4 @@
 type: string
-format: hex
 description: |
   The hex information of the complete merkle tree as returned by server api.
   More information can be found in chapter 4.3 of the catapult whitepaper.

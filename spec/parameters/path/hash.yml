@@ -4,4 +4,4 @@ description: Filter by hash.
 required: true
 schema:
   type: string
-  format: hex
+  

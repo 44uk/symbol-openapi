@@ -26,5 +26,4 @@ properties:
     $ref: "./MetadataTypeEnum.yml"
   value:
     type: string
-    format: hex
     description: Metadata value.

@@ -4,4 +4,4 @@ description: Namespace identifier.
 required: true
 schema:
   type: string
-  format: hex
+  

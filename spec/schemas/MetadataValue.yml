@@ -1,3 +1,2 @@
 type: string
-format: hex
 description: Metadata value. If embedded in a transaction, this is calculated as xor(previous-value, value).

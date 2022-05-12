@@ -4,4 +4,4 @@ description: Receipt hash.
 required: true
 schema:
   type: string
-  format: hex
+  

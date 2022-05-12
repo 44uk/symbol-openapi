@@ -4,4 +4,3 @@ description: Filter by composite hash.
 required: true
 schema:
   type: string
-  format: hex

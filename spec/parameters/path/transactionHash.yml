@@ -4,4 +4,4 @@ description: Transaction hash.
 required: true
 schema:
   type: string
-  format: hex
+  

@@ -4,4 +4,4 @@ description: Account public key.
 required: true
 schema:
   type: string
-  format: hex
+  
